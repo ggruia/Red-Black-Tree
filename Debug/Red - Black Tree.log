@@ -1,0 +1,4 @@
+﻿  Red - Black Tree.cpp
+C:\Users\gruia\Desktop\Projects\C++\Red - Black Tree\Red - Black Tree.cpp(71): warning C4715: 'find': not all control paths return a value
+C:\Users\gruia\Desktop\Projects\C++\Red - Black Tree\Red - Black Tree.cpp(241): warning C4715: 'insert': not all control paths return a value
+  Red - Black Tree.vcxproj -> C:\Users\gruia\Desktop\Projects\C++\Red - Black Tree\Debug\Red - Black Tree.exe
